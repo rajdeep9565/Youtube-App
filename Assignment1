@@ -167,7 +167,7 @@ height: 35px;
             
 
             let publish = document.createElement("h5");
-            publish.innerHTML ="Punlished At :-"+ publishedAt;
+            publish.innerHTML ="Published At :-"+ publishedAt;
 
             let line = document.createElement("hr")
             detail.append(titles,channel,publish,p,line)
